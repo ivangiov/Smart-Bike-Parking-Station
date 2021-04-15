@@ -1,7 +1,7 @@
 # Smart-Bike-Parking-Station
 Alat ini merupakan meteran parkir sepeda dengan RFID, solenoid lock, serta mikrokontroler Arduino dan nodeMCU. Alat ini terhubung ke aplikasi Android yang dapat mengecek ketersediaan tempat parkir.
 
-Kode yang dimuat adalah kode Arduino dan nodeMCU
+Kode yang dimuat adalah kode Arduino Uno dan nodeMCU Lua
 
 Dibuat oleh:
 - Ivan Giovanni
